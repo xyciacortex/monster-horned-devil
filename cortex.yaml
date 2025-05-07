@@ -1,0 +1,14 @@
+openapi: 3.0.1
+info:
+  title: monster-horned-devil
+  x-cortex-tag: monster-horned-devil
+x-cortex-custom-data:
+  alignment: lawful-evil
+  challenge_rating: 11
+  legendary: true
+  source: dnd-5e
+  type: fiend
+x-cortex-owners:
+- email: bestiary@dnd.com
+x-cortex-tag: monster-horned-devil
+x-cortex-type: monster
